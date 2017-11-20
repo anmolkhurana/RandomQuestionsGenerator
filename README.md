@@ -7,4 +7,4 @@ Functionality:
 This app brings in the functionality of closures, inheritance, Immediately invoked function (IIFE) and prototype chaining in JS.
 
 How it works?
-Just run the code in any browser and right clikc on the page and select "Inspect". Select console and the game will start.
+Just run the code in any browser and right click on the page and select "Inspect". Select console and the game will start.
